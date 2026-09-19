@@ -1,0 +1,7 @@
+# Brain Tumor Classification - Project Dependencies
+
+streamlit
+tensorflow
+numpy
+pandas
+Pillow
